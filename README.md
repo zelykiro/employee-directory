@@ -15,6 +15,10 @@ Employee Directory
   - Navigating to the previous or the next 'employee' can also be done by clicking on the arrows on either side of the 'employee card'.   
     ###### _Currently you can the move from the last 'employee' to the first by clicking the next button and vice versa by clicking the previous button._
 
+### To be done
+
+- [ ] Make the site mobile responsive.
+
 ### Goal of the project
 
 - To use an [API](https://randomuser.me/) to grab information and build a prototype employee directory for an imaginary startup.
